@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.div1{
+    margin: 2% auto;
+    text-align: center;
+}
+input{
+    outline: 0;
+    border: solid 1px #ccc;
+    font-size: 18px;
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 2% auto;
+}
